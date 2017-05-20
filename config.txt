@@ -1,3 +1,0 @@
-$ENABLE_IMAGES_REWRITE = true;
-$ENABLE_FILE_REWRITE = true;
-$FILE_REWRITE_DIR = "files/";
